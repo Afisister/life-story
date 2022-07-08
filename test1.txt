@@ -2,8 +2,7 @@ I am a student.
 I am in class xii.
 Now I am learning Javascript.
 I love progrmmimg language
-<<<<<<< HEAD
 I have complete Html,css and bootstrap learn
 My next target php course complete
 I am complete my web development course 1st Augast
-New line added
+
